@@ -75,3 +75,5 @@ test_cases = [
 def test_template(arguments, expected_output, fail_message):
     actual = arithmetic_arranger(*arguments)
     assert actual == expected_output, fail_message
+
+
