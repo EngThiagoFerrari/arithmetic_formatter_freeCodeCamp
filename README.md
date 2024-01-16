@@ -8,3 +8,9 @@ The only file I edited was the "arithmetic_arranger.py" where I wrote the python
 
 The file main.py imports the arithmetic_arranger.py to be exceuted. I also starts the test_module.py - where I could check whether or not I met all of the project's requirements.
 
+
+Orinal Remote repository from freeCodeCamp
+remote: https://github.com/freeCodeCamp/boilerplate-arithmetic-formatter
+repository name: boilerplate-arithmetic-formatter
+repository description: Repository for https://replit.com/@ferrarithiago/boilerplate-arithmetic-formatter
+

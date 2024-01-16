@@ -5,3 +5,6 @@ __pycache__/
 .upm/
 poetry.lock
 pyproject.toml
+arithmetic_arranger.py
+main.py
+test_module.py
